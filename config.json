@@ -1,8 +1,8 @@
 {
-    "token" : "YOUR BOT TOKEN",
-    "admins" : ["ADMIN USERNAMES (ARRAY)"],
+    "token" : "1139824148:AAGpykhujlHXtmS8BcRZmfLVci3uAjTMY0A",
+    "admins" : ["720679955"],
     "intro" : "YOUR INTRO HERE",
-    "botname" :"YOUR BOT NAME HERE",
-    "signup" : SIGNUP BONUS (NUMBER),
-    "ref" : REFERRAL BONUS (NUMBER)
+    "botname" :"spade hash bot",
+    "signup" : 1000,
+    "ref" : 1234
 }
